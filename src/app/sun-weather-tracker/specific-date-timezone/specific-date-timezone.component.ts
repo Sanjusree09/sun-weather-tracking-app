@@ -224,7 +224,7 @@ export class SpecificDateTimezoneComponent implements AfterViewInit {
       this.locationDateRange = JSON.parse(storedDateRangeLocationData);
     }
   
-    // Retrieve date1 and date2 from localStorage
+   
     const storedDate1 = localStorage.getItem('date1');
     const storedDate2 = localStorage.getItem('date2');
   
