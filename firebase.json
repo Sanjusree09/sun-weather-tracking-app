@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/sun-weather-tracking-app",
+    "public": "dist/sun-weather-tracking-app/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
